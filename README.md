@@ -1,31 +1,37 @@
-# Nwabisa-Nkukwana-
+# Hi there, I'm Nwabisa Nkukwana 👋
 
-Hi, I'm Nwabisa, a Cyber Security Professional leveraging web development skills to build secure digital experiences.
+**Back Office Specialist & Web Manager | Bridging Operations, IT Support, & Web Development**
 
-# About me
-Iam an aspiring tech professional bringing a strong foundation in Cyber Security combined with practical development experience. I have hands-on experience building and maintaining WordPress sites. I am proficient in HTML and CSS . Currently, I am dedicated to self-learning Python to leverage scripting for security automation and general development. I am actively seeking a role as a Junior Developer or Security Analyst where I can apply my unique blend of security knowledge and front-end development skills.
+I am an Information Systems graduate with a strong foundation in IT support and practical experience managing digital operations. Currently, I work as a Back Office Specialist & Web Manager at The CoziPlace, where I combine administrative workflows with WordPress site maintenance, PHP, and technical documentation. 
 
-# skills and Tools 
+---
 
-| Category | Skills |
+## 🛠️ Skills & Tools
+
+| Category | Skills / Technologies |
 | :--- | :--- |
-| **Languages** | Python (in-progress), HTML, CSS, Markdown |
-| **Frameworks/CMS**| WordPress, (Learning Flask/Django) |
-| **Cyber Security** | Network Security, Threat Analysis, Linux, [Specific Certificate Topic 1], [Specific Certificate Topic 2] |
-| **Tools** | Git, GitHub, Visual Studio Code |
+| **Web Management & Dev** | PHP, WordPress Development, HTML5, CSS3, Markdown |
+| **IT Support & Systems** | CompTIA A+ & Network+ Principles, Linux, Technical Documentation |
+| **Operations & Admin** | Back-Office Operations, Administrative Assistance, Workflow Coordination |
+| **Tools & Version Control** | Git, GitHub, Visual Studio Code |
 
-# 🏆 GitHub Activity
+---
 
-<a href="https://github.com/Nwabink">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nwabink&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Nwabink's GitHub Stats" />
-</a>
+## 💼 What I Do
+* **Web Management:** Maintaining and updating WordPress sites, ensuring reliable front-end performance, and utilizing PHP.
+* **Back Office Operations:** Streamlining administrative processes, handling coordination tasks, and ensuring smooth day-to-day business workflows.
+* **IT Troubleshooting:** Applying foundational networking and hardware/software support principles to solve technical bottlenecks.
 
-<a href="https://github.com/Nwabink">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nwabink&theme=flat&no-frame=true" alt="Nwabink's GitHub Trophies" />
-</a> 
+---
 
-# 🔗 Let's Connect
+## 🏆 GitHub Activity
 
-* **LinkedIn:** [Your LinkedIn Profile URL]
-* **Portfolio/Website:** [Your Personal Website URL]
-* **Email:** [Your Professional Email]
+[![Nwabisa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nwabink&show_icons=true&theme=radical)](https://github.com/nelson/github-readme-stats)
+[![Nwabisa's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Nwabink&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## 📬 Let's Connect
+
+* **LinkedIn:** [linkedin.com/in/nwabisa-nkukwana-897a1b288](https://www.linkedin.com/in/nwabisa-nkukwana-897a1b288)
+* **GitHub:** [github.com/Nwabink](https://github.com/Nwabink)
