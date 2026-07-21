@@ -12,7 +12,7 @@ I am an Information Systems graduate with a strong foundation in IT support and 
 | :--- | :--- |
 | **Web Management & Dev** | PHP, WordPress Development, HTML5, CSS3, Markdown |
 | **IT Support & Systems** | CompTIA A+ & Network+ Principles, Linux, Technical Documentation |
-| **Operations & Admin** | Back-Office Operations, Administrative Assistance, Workflow Coordination |
+| **Operations & Admin** | Back-Office Operations, Administrative Assistance |
 | **Tools & Version Control** | Git, GitHub, Visual Studio Code |
 
 ---
