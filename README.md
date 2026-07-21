@@ -27,6 +27,7 @@ I am an Information Systems graduate with a strong foundation in IT support and 
 ## 🏆 GitHub Activity
 
 [![Nwabisa's GitHub Stats]
+
 [![Nwabisa's GitHub Trophies]
 ---
 
