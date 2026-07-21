@@ -26,9 +26,8 @@ I am an Information Systems graduate with a strong foundation in IT support and 
 
 ## 🏆 GitHub Activity
 
-[![Nwabisa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nwabink&show_icons=true&theme=radical)](https://github.com/nelson/github-readme-stats)
-[![Nwabisa's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Nwabink&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
-
+[![Nwabisa's GitHub Stats]
+[![Nwabisa's GitHub Trophies]
 ---
 
 ## 📬 Let's Connect
